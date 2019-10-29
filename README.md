@@ -1,5 +1,5 @@
-# 塑美体育
+# 土豪联盟娱乐
 
-We are an app dedicated to online booking yoga or dance learning. Users who want a good body and a beautiful figure can choose their favorite yoga or dance course through our platform. All the venues provided by our platform are quality venues, high quality, beautiful environment and good service. Users can rest assured to learn.
+We offer online bookings for outdoor entertainment experiences. Users can book tickets for outdoor entertainment experiences through our platform. There are four types of our platform: "马术", "设计", "滑翔伞", "赛车". More than 100 outdoor entertainment items are available for booking.
 
 If you have any questions, please contact the technical support email: xiangyupao@foxmail.com,Thank you for your support.
