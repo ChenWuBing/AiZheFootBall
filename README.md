@@ -1,5 +1,5 @@
-# 直播吧-篮球专业赛事资讯
+# 直播吧--爱好者足球赛事
 
-We are a platform for text broadcasting of various basketball matches. Users can get the latest news of basketball matches on our platform, and the audience can interact in real time. Our platform recognizes the authority and openness of all data. For every basketball game that is being played, there is a dedicated anchor to describe the situation of the court in writing.
+我們是各種籃球比賽的文字廣播平台。 用戶可以在我們的平台上獲得籃球比賽的最新消息，並且觀眾可以進行實時互動。 我們的平台認可所有數據的權威性和開放性。 對於每場進行的籃球比賽，都有專門的主持人以書面形式描述球場的情況。
 
-If you have any questions, please contact the technical support email: kgvrcx@163.com,Thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：wlwdhhh@126.com，謝謝您的支持。
